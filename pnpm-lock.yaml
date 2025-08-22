@@ -30,7 +30,7 @@ importers:
         specifier: ^0.540.0
         version: 0.540.0(solid-js@1.9.9)
       sharp:
-        specifier: 0.34.1
+        specifier: ^0.34.1
         version: 0.34.1
       solid-js:
         specifier: ^1.9.5
